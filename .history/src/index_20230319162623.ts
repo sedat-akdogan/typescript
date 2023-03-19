@@ -14,7 +14,7 @@ let employee: {
     retire: (date: Date) => void
 } = {
     id: 1,
-    name: "Alperen",
+    name: Alperen"0,
     retire: (date: Date)=> {
         console.log(date);
     }
