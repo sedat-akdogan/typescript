@@ -69,6 +69,4 @@ console.log(customer?.birthday?.getFullYear());
 // Optional element access operator
 // customers?.[0]
 
-// Optional call
-let log: any = null;
-log?.("a");
+// Optional 

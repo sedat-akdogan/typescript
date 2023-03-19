@@ -71,4 +71,3 @@ console.log(customer?.birthday?.getFullYear());
 
 // Optional call
 let log: any = null;
-log?.("a");
