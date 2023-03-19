@@ -39,7 +39,7 @@
 // type Metric = "cm" | "inch";
 
 
-// Nullable types
+// Nulla
 function greet(name: string | null | undefined) {
     if (name)
         console.log(name.toUpperCase());
