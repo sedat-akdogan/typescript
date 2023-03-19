@@ -6,4 +6,4 @@ function calculateTax(income: number, taxYear: number): number {
         return income*1.4;
 }
 
-calculateTax(10_000, 2020);
+calculateTax(10_000, 2020));

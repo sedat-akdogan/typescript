@@ -5,5 +5,4 @@ function calculateTax(income: number, taxYear: number): number {
     if (taxYear < 2022)
         return income*1.4;
 }
-
-calculateTax(10_000, 2020);
+calculate

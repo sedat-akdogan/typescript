@@ -6,4 +6,5 @@ function calculateTax(income: number, taxYear: number): number {
         return income*1.4;
 }
 
+cgl
 calculateTax(10_000, 2020);
