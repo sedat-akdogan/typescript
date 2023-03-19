@@ -30,5 +30,3 @@
 //     else 
 //         return parseInt(weight) * 2.2;
 // }
-
-
